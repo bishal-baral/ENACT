@@ -1,5 +1,4 @@
 'use strict';
-
 const Event = require('../models/Event');
 const User = require('../models/User');
 const sgMail = require('@sendgrid/mail');
